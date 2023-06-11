@@ -3,10 +3,12 @@
 
 using namespace sf;
 
-void title()
+class TitleScreen
 {
-
-}
+    public:
+        Text title;
+        
+};
 
 int main()
 {
